@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1693725173 source:c:\users\data\desktop\respons\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<chrono>
+	<thread>
+	"tiny-json.h"
+
+1624048945 source:c:\users\data\desktop\respons\tiny-json.c
+	<string.h>
+	<ctype.h>
+	"tiny-json.h"
+
+1693387946 c:\users\data\desktop\respons\tiny-json.h
+	<stddef.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+
